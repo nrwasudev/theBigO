@@ -24,13 +24,13 @@ The histogram shows that many students already report moderate to high levels of
 
 ## Figure 2: Note-Taking and Understanding
 
-<img src="/theBigO/static/imgs/own_notes_understanding.png" alt="Line graph comparing own_notes and understanding" width="600"/>
+<img src="static/imgs/own_notes_understanding.png" width="600">
 
 This graph does not show a clear positive relationship between note-taking and understanding. In fact, understanding slightly decreases as note-taking increases before rising slightly again at the highest note-taking levels. One possible explanation is that students with more prior coding experience may not feel the need to take many notes but still understand the material well. Less experienced students may take more notes because they are trying harder to keep up, but they may still report lower understanding.
 
 ## Figure 3: Note-Taking and Office Hour Visits
 
-<img src="/theBigO/static/imgs/own_notes_oh_visits.png" alt="Line graph comparing own_notes and office hour visits" width="600"/>
+<img src="static/imgs/own_notes_oh_visits.png" width="600">
 
 This graph also does not clearly support the original idea. Students who report taking more notes do not consistently report fewer office hour visits. Office hour visits increase up to a certain level of note-taking and then level off. This may again be influenced by prior experience, since newer students may both take more notes and seek more help.
 
