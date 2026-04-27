@@ -2,9 +2,9 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-# Notes on Notes
+<img src="static/imgs/logo.png" width="250">
 
-<img src="static/imgs/logo.png" width="600">
+# Notes on Notes
 
 ## Summary of Analysis
 
@@ -20,19 +20,19 @@ We created three visualizations: a histogram of note-taking habits, a line graph
 
 ## Figure 1: Distribution of Student Note-Taking
 
-<img src="theBigO/static/imgs/logo.png" width="600">
+<img src="/static/imgs/Histogram EX09.png" width="500">
 
 The histogram shows that many students already report moderate to high levels of note-taking. This suggests that note-taking is already common in COMP110, so offering extra credit for notes may not dramatically change student behavior.
 
 ## Figure 2: Note-Taking and Understanding
 
-<img src="static/imgs/own_notes_understanding.png" width="600">
+<img src="static/imgs/EX09 Understanding.png" width="500">
 
 This graph does not show a clear positive relationship between note-taking and understanding. In fact, understanding slightly decreases as note-taking increases before rising slightly again at the highest note-taking levels. One possible explanation is that students with more prior coding experience may not feel the need to take many notes but still understand the material well. Less experienced students may take more notes because they are trying harder to keep up, but they may still report lower understanding.
 
 ## Figure 3: Note-Taking and Office Hour Visits
 
-<img src="static/imgs/own_notes_oh_visits.png" width="600">
+<img src="static/imgs/EX09 oh_visits.png" width="500">
 
 This graph also does not clearly support the original idea. Students who report taking more notes do not consistently report fewer office hour visits. Office hour visits increase up to a certain level of note-taking and then level off. This may again be influenced by prior experience, since newer students may both take more notes and seek more help.
 
