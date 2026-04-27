@@ -4,6 +4,8 @@ layout: default
 ---
 # Notes on Notes
 
+<img src="static/imgs/logo.png" width="600">
+
 ## Summary of Analysis
 
 For this project, we analyzed whether COMP110 should offer extra credit for students who submit handwritten notes at the end of the semester. The goal of this idea was to encourage active listening, improve student understanding, and potentially reduce overall TA workload by lowering the number of office hour visits students need.
@@ -18,7 +20,7 @@ We created three visualizations: a histogram of note-taking habits, a line graph
 
 ## Figure 1: Distribution of Student Note-Taking
 
-<img src="static/imgs/own_notes_histogram.png" width="600">
+<img src="theBigO/static/imgs/logo.png" width="600">
 
 The histogram shows that many students already report moderate to high levels of note-taking. This suggests that note-taking is already common in COMP110, so offering extra credit for notes may not dramatically change student behavior.
 
