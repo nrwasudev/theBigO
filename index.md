@@ -38,10 +38,16 @@ This graph also does not clearly support the original idea. Students who report 
 
 ## Conclusion
 
-Overall, our analysis is inconclusive and does not clearly support offering extra credit specifically for handwritten notes. The data shows that note-taking is already common, and higher note-taking does not clearly align with higher understanding or fewer office hour visits.
+Our analysis, bolstered by our three figures, was created to determine whether offering extra credit for handwritten notes would improve student understanding and engagement and reduce reliance on office hours and TAs. Based on the data, the results are inconclusive and do not clearly support the original idea.
 
-A major limitation is that the analysis does not account for prior coding experience. Experienced coders may take fewer notes because they already know much of the material, while newer coders may take more notes because they are struggling. This could skew the relationship between note-taking and understanding.
+The histogram of own_notes shows that many students already report moderate to high levels of note-taking, suggesting that note-taking is already a frequent behavior in the course. This indicates that an extra credit incentive may have a limited impact, since a large portion of students are already doing so.
 
-The main downside of implementing this idea is that it could increase grading work for instructors and TAs without clearly improving student outcomes. It could also favor handwritten note-taking over other valid study methods, such as typed notes, practice problems, or coding examples.
+The relationship between own_notes and understanding does not show a clear positive trend. In fact, understanding appears to slightly decrease as note-taking increases, then takes a small climb toward the upper bound. However, this result is likely influenced by the fact that many students in COMP110 may already have prior coding experience. More experienced students may not feel the need to take notes because they are already familiar with the material, yet they still report high levels of understanding. At the same time, less experienced students may take more notes as they try to keep up with new concepts, but still report lower understanding. This dynamic can create a misleading negative relationship between note-taking and understanding.
 
-In the future, COMP110 could collect more targeted data by comparing note-taking habits across students with different levels of prior coding experience. A better course improvement might focus on broader active learning strategies rather than only incentivizing handwritten notes.
+A similar pattern appears when comparing own_notes with office hour visits. Students who report higher note-taking do not consistently visit office hours less often. It is a single peaked dataset with the median around 4/7 for own_notes. This could again be explained by experience level, where newer students both take more notes and seek more help, while experienced students do neither as frequently.
+
+Overall, the data does not provide strong evidence that incentivizing handwritten notes alone would improve learning outcomes or reduce TA workload. A potential downside of this idea is that it could increase grading responsibilities for instructors or TAs without producing meaningful improvements. We also realised it could in theory favor one study method over others.
+
+To improve this analysis, future data collection should take prior experience into account, such as separating students based on their coding background. This would allow for a more accurate comparison of how note-taking impacts learning for beginners versus experienced students. 
+
+In conclusion, while note-taking is an important study strategy, the current data suggests that incentivizing handwritten notes may not be the most effective way to improve student outcomes. A more targeted approach that accounts for differences in student experience would likely produce more meaningful improvements.
