@@ -20,7 +20,7 @@ We created three visualizations: a histogram of note-taking habits, a line graph
 
 ## Figure 1: Distribution of Student Note-Taking
 
-<img src="/static/imgs/Histogram EX09.png" width="500">
+<img src="static/imgs/Histogram EX09.png" width="500">
 
 The histogram shows that many students already report moderate to high levels of note-taking. This suggests that note-taking is already common in COMP110, so offering extra credit for notes may not dramatically change student behavior.
 
